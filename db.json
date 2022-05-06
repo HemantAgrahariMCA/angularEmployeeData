@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "Hemant",
+      "lastname": "Agrahari",
+      "birthdate": "1995-06-10",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "OOdles",
+      "jobExperience": "3",
+      "salary": "45",
+      "profile": "sig.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Akhil",
+      "lastname": "Vishwakarma",
+      "birthdate": "7850-06-10",
+      "gender": "m",
+      "education": "diploma",
+      "company": "Amazon Company",
+      "jobExperience": "3",
+      "salary": "56",
+      "profile": "Photo.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "Nikhil",
+      "lastname": "Vishwakarma",
+      "birthdate": "2006-09-10",
+      "gender": "m",
+      "education": "graduate",
+      "company": "IT Company",
+      "jobExperience": "34",
+      "salary": "56LPA",
+      "profile": "07 (3).jpeg",
+      "id": 4
+    },
+    {
+      "firstname": "Shiva",
+      "lastname": "Shiva",
+      "birthdate": "2000-06-10",
+      "gender": "m",
+      "education": "diploma",
+      "company": "Airtel",
+      "jobExperience": "4 year",
+      "salary": "34LPA",
+      "profile": "d.jpg",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
